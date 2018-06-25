@@ -1,2 +1,2 @@
 # beginner
-I am new to  the git ub
+I am new to  the git hub
